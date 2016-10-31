@@ -1,1 +1,1 @@
-c.txt
+This is c.txt.  And going to be committed.
